@@ -2,7 +2,7 @@
 name: Quest template
 about: Short title HERE
 title: ''
-labels: ''
+labels: Quest
 assignees: ''
 
 ---
